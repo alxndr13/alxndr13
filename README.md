@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Alex and interested in all things golang, kubernetes, networking and linux. 
+I'm Alex and interested in all things golang, kubernetes, open source, the apple ecosystem and everything running and cycling. 
 
-Check my personal website for more information about me and my work: [alxndr13.xyz](https://alxndr13.xyz)
+I work as a Cloud Engineer for [charles](hello-charles.com).
+
+[alxndr13.xyz](https://alxndr13.xyz)
 
 <!--
 **alxndr13/alxndr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
