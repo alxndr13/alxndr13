@@ -1,10 +1,9 @@
 ### Hi there 👋
+I'm Alex, interested in Golang, Kubernetes, open source, the Apple ecosystem, and everything related to running and cycling.
 
-I'm Alex and interested in all things golang, kubernetes, open source, the apple ecosystem and everything running and cycling. 
+I work as a Cloud Engineer at [Charles](https://hello-charles.com).
 
-I work as a Cloud Engineer for [charles](hello-charles.com).
-
-[alxndr13.xyz](https://alxndr13.xyz)
+Website: [alxndr13.xyz](https://alxndr13.xyz)
 
 <!--
 **alxndr13/alxndr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
